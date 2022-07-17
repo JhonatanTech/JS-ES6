@@ -19,7 +19,7 @@ var divisao2 = '10' / '2'
 var divisao2 = 'comprei 10' / 2 //NaN (Not a Number)
 
 /**
- * é possivel veriuficar se uma variavel é NaN ou não com a fnção isNaN()
+ * é possivel verificar se uma variavel é NaN ou não com a função isNaN()
  */
 
 //operadores aritméticos unários

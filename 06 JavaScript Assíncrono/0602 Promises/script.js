@@ -89,7 +89,7 @@ promessa.then(resolucao => {
 
 /**
  * then(resolve, reject)
- * podemos passae a função que será ativada caso a promise seja rejeitada, direto no método then, como segundo argumento
+ * podemos passar a função que será ativada caso a promise seja rejeitada, direto no método then, como segundo argumento
  */
 const promessa = new Promise(function(resolve, reject) {
     let condicao = false
